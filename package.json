@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An app that will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazon.js",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBCorrigan/bamazon.git"
+  },
+  "keywords": [
+    "\"MySQL\"",
+    "\"CLI-store\""
+  ],
+  "author": "Nick Corrigan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBCorrigan/bamazon/issues"
+  },
+  "homepage": "https://github.com/NBCorrigan/bamazon#readme"
+}
